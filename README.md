@@ -6,6 +6,10 @@ Tu sistema personal para aprender a programar sin perder tiempo organizándote. 
 
 ## Usarla
 
+**En línea:** https://israel187-1.github.io/LifeOS-/ (se publica sola con cada cambio en `main` mediante `.github/workflows/deploy.yml`; requiere *Settings → Pages → Source: GitHub Actions*).
+
+**En tu computadora:**
+
 ```bash
 npm install
 npm run dev        # http://localhost:5173 (desarrollo)
